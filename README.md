@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucopacheko&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=glaucopacheko&theme=gotham&hide_border=true&area=true)
+[Contribution](https://activity-graph.herokuapp.com/graph?username=glaucopacheko&theme=gotham&hide_border=true&area=true)
 
 <!--
 <div align="center" style="display: inline_block"><br>
